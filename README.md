@@ -3,7 +3,7 @@ Este é um projeto-desafio bastante simples e enxuto que compõe o curso <a href
 Apesar de tê-lo concluído ainda em 2021, decidi refazer esse desafio apenas para relembrar alguns conceitos básicos da linguagem Python.
 
 ### -> Projeto:
-Este projeto consiste em identificar possíveis casos de plágio utilizando análise linguística. O programa compara textos fornecidos com uma assinatura pré-definida baseada em estatísticas como tamanho médio das palavras, relação Type-Token e complexidade de sentença. O objetivo é calcular o grau de similaridade e detectar qual texto tem maior probabilidade de ter sido escrito por um aluno infectado com COH-PIAH. O código que segue demonstra o funcionamento do programa:
+Consiste em identificar possíveis casos de plágio utilizando análise linguística. O programa compara textos fornecidos com uma assinatura pré-definida baseada em estatísticas como tamanho médio das palavras, relação Type-Token e complexidade de sentença. O objetivo é calcular o grau de similaridade e detectar qual texto tem maior probabilidade de ter sido escrito por um aluno infectado com COH-PIAH. O código que segue demonstra o funcionamento do programa:
 
 ```
 Bem-vindo ao detector automático de COH-PIAH.
